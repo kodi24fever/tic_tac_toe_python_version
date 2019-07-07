@@ -1,4 +1,4 @@
-# Welcome to My Tic Tac Toe repository page!
+# Welcome to my Tic Tac Toe repository page!
 Hi! This is a sample tic tac toe game writen in python(3.7.x).
 
 ## Thought process
